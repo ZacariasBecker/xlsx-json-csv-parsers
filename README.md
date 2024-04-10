@@ -1,4 +1,4 @@
 # xlsx-json-csv-parsers
- - Convert xlsx files to json
- - Convert json files to xlsx
- - Convert json files to csv
+ - Convert: `xlsx` to `json`
+ - Convert: `json` to `xlsx`
+ - Convert: `json` to `csv`
